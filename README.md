@@ -1,6 +1,6 @@
-#RoboFriends App!
+# RoboFriends App!
 
-##Steps to run this project
+## Steps to run this project
 -- Clone this repo
 -- Run - npm install
 -- Run - npm start
